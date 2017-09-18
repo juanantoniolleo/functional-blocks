@@ -10,6 +10,6 @@ PRUEBAS DE UTILIZACION DE GITHUB - VISUALIZAR'17
 <
 
 + ESTA ES UNA LISTA
-[google.com] google.com
+· [google.com] google.com
 
 

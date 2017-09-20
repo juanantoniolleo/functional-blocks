@@ -20,5 +20,5 @@ Y ESTO ES TEXTO ENLAZADO:
 
 
 Y ESTO ES UNA IMAGEN:
-![TEXTO ALTERNATIVO DE LA IMAGEN](http://jupyter.org/assets/white_nav_logo.svg)
+![TEXTO ALTERNATIVO DE LA IMAGEN](http://jupyter.org/assets/jupyterpreview.png)
 

@@ -12,4 +12,13 @@ PRUEBAS DE UTILIZACION DE GITHUB - VISUALIZAR'17
 + ESTA ES UNA LISTA
 · [google.com] google.com
 
+ESTO ES UN ENLACE:
+<http://try.jupyter.org> 
+
+Y ESTO ES TEXTO ENLAZADO:
+[jupyter](http://jupyter.org)
+
+
+Y ESTO ES UNA IMAGEN:
+![TEXTO ALTERNATIVO DE LA IMAGEN](http://jupyter.org/assets/white_nav_logo.svg)
 
